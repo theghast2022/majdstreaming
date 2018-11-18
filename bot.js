@@ -47,4 +47,4 @@ if (message.content.startsWith(adminprefix + 'setavatar')) {
 
 
 
-client.login("NDUxNDM4OTQ2NDE3OTAxNTY5.DsdWCA.nWXuFG7uQW3Y0KoIZrpUCUHyx-M");
+client.login(process.env.BOT_TOKEN);
